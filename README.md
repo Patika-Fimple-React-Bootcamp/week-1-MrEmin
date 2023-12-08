@@ -13,4 +13,4 @@ This Todo App is a simple web application created using HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-[Click here for live demo]()
+[Click here for live demo](https://patika-week1.netlify.app/)
